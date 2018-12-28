@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-# Initializing LogDetails
-class LogDetails
+# Initializing LogInfo
+class LogInfo
   attr_reader :url, :ip
 
   def initialize(url:, ip:)

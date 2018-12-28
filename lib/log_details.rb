@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# Initializing LogDetails
 class LogDetails
   attr_reader :url, :ip
 
